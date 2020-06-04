@@ -1,0 +1,10 @@
+Package: FraudArticle
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2019-11-21
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Imports: xgboost (>= 0.6.4.6), glmnet (>= 2.0-16), parallel (>= 3.5.0), copula (>= 0.999-18)
